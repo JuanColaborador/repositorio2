@@ -10,6 +10,3 @@ for i in range(1,21):
 
 for i in range(21,41):
     print(i)
-
-for i in range(121,141):
-    print(i)
