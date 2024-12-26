@@ -12,8 +12,3 @@ for i in range(1,21):
 for i in range(101,121):
     print(i)
 
-"""*****************************************
-Nuevo for de colaboradora
-********************************************"""
-for i in range(1001,1021):
-    print(i)
